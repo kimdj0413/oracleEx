@@ -58,7 +58,7 @@ SELECT COLUMN1
 INSERT INTO EX2_2(COLUMN3) values('홍길동');
 
 -- 테이블 구조 확인 쿼리문
--- 유저가 생성한 테이블의 정보를 갖고 있는 테이블 : uwer_tab_cols
+-- 유저가 생성한 테이블의 정보를 갖고 있는 테이블 : user_tab_cols
 -- select
 SELECT COLUMN_NAME 
 	 , DATA_TYPE

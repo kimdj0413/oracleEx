@@ -147,4 +147,4 @@ CREATE TABLE board(
 INSERT INTO BOARD (board_seq, title, contents, writer)
 values(1,'테스트','테스트','테스트');
 
-SELECT * FROM board;
+SELECT * FROM board;	
