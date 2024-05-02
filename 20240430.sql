@@ -239,3 +239,6 @@ SELECT a.emp_name
  ) a
 WHERE rownum <=3
 ;
+
+INSERT INTO jumin values('123456-1234567');\
+INSERT INTO junin
